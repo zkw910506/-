@@ -2,3 +2,4 @@
 .shift() 移除数组第一个元素赋值
 .push() 添加数组于末尾
 .unshift()添加数组头部
+console.log(     ) 发送数据至控制台
