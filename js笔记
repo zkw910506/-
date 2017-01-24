@@ -5,3 +5,5 @@
 console.log(     ) 发送数据至控制台
 obj,name,value     arguments[0] ,arguments[1],arguments[2]
 currentstyle 获取非行间样式
+---------------------------------------------------------------------------------------
+
