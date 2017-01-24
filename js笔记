@@ -9,5 +9,6 @@ currentstyle 获取非行间样式
 x.toUpperCase()  str转大写
 x.toLowerCase()   str转小写
 x.charAt(index)   访问指定位置字符  \\index=num   =x.length 负值
-x.indexOf(a,b  )       a=访问首次检索字符串位置值   b=指定位置
-x.split(a,b)          a=分割字符    b=分割次数
+x.indexOf(a,b  )       a=访问首次检索字符串位置值   b=指定位置 a必选
+x.split(a,b)          a=分割字符    b=分割次数  a必选
+x。substring(a,b)        a=起始   b=结束
