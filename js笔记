@@ -7,6 +7,9 @@ console.log(     ) 发送数据至控制台
 obj,name,value     arguments[0] ,arguments[1],arguments[2]
 currentstyle 获取非行间样式
 concat()    arrayObject.concat(array1,array2,...,arrayN)      连接两个或多个数组。此方法返回一个新数组，不改变原来的数组。
+join()     arrayObject.join(分隔符)                    把数组中的所有元素放入一个字符串。元素是通过指定的分隔符进行分隔的。   
+reverse()       arrayObject.reverse()                  颠倒数组中元素的顺序。
+slice()       arrayObject.slice(start,end)            从已有的数组中返回选定的元素。
 ---------------------------------------------对象------------------------------------------
 x.toUpperCase()  str转大写
 x.toLowerCase()   str转小写
