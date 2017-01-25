@@ -1,3 +1,4 @@
+-------------------------------------------数组------------------------------------
 .pop() 移除数组最后元素赋值
 .shift() 移除数组第一个元素赋值
 .push() 添加数组于末尾
@@ -5,6 +6,7 @@
 console.log(     ) 发送数据至控制台
 obj,name,value     arguments[0] ,arguments[1],arguments[2]
 currentstyle 获取非行间样式
+concat()    arrayObject.concat(array1,array2,...,arrayN)      连接两个或多个数组。此方法返回一个新数组，不改变原来的数组。
 ---------------------------------------------对象------------------------------------------
 x.toUpperCase()  str转大写
 x.toLowerCase()   str转小写
@@ -17,3 +19,4 @@ Math                  数学对象
 Math.ceil( num)            数值向上取整
 Math.floor(num)            数值向下取整
 Math.round(num)               四舍五入
+Math.random() *num        随机数num为范围最大数
