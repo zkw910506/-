@@ -35,5 +35,6 @@ settimeout/cheartimeout              延迟时间代码
 setinterval/cleatinterval            指定间隔时间代码
 getHours   时   getMinutes  分 getSeconds秒
 ----------------DOM------
-childNodes     
-nodeType     子节点
+childNodes   节点  文本+元素  
+nodeType     节点   文本 3  元素1
+children     元素节点  只有第一层
