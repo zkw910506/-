@@ -23,6 +23,12 @@ Math.ceil( num)            数值向上取整
 Math.floor(num)            数值向下取整
 Math.round(num)               四舍五入
 Math.random() *num        随机数num为范围最大数
+window.history.back()     返回上一个页面
+window.history.forward()  返回下一个页面
+window.history.go(1/-1)    返回下一个/上一个    
+location              获取或设置窗体URL
+screen           对象包括有关用户屏幕信息 
+screen.availWidth/availHeight     屏幕有效宽/有效高
 ----------------------------浏览器对象---------------
 prompt()          显示可提示用户输入对话框
 confirm()                   显示带有一段消息及确认按钮和取消按钮对话框
@@ -30,6 +36,8 @@ open()          打开新浏览器窗口
 close()         关闭浏览器窗口
 print()         打印窗口内容
 focus()           把键盘焦点从顶层窗口移开
+Navigator          浏览器对象
+
 -------------------定时器-------------------
 settimeout/cheartimeout              延迟时间代码
 setinterval/cleatinterval            指定间隔时间代码
